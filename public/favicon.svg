@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#111318"/>
+  <!-- Minimalist Architectural Geometric E1 mark -->
+  <path d="M18 20H38M18 32H32M18 44H38" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M18 20V44" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <line x1="45" y1="20" x2="45" y2="44" stroke="#8EA9FF" stroke-width="3" stroke-linecap="round"/>
+  <line x1="41" y1="24" x2="45" y2="20" stroke="#8EA9FF" stroke-width="3" stroke-linecap="round"/>
+</svg>
